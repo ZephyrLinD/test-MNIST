@@ -1,4 +1,4 @@
-# Minist数据集
+# MNIST数据集的Keras实现
 需要提前安装**Keras**, **tensorflow-gpu**
 可用于显卡驱动测试，深度学习入门实例
 本仓库只作记录用
