@@ -5,5 +5,6 @@
 
 ## 运行方法: 
 ```
+git clone https://github.com/ZephyrLinD/test-MNIST.git
 python3 main.py
 ```
